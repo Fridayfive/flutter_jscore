@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/jsc/CMakeLists.txt",
+    "/Users/friday/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/friday/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/friday/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/friday/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "afc-Debug-armeabi-v7a": {
+      "artifactName": "afc",
+      "buildCommand": "/Users/friday/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a\" afc",
+      "abi": "armeabi-v7a",
+      "output": "/Users/friday/Desktop/learn/flutter/flutter_jscore/example/build/flutter_jscore/intermediates/cmake/debug/obj/armeabi-v7a/libafc.so",
+      "runtimeFiles": [
+        "/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/lib/android/armeabi-v7a/libc++_shared.so",
+        "/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/lib/android/armeabi-v7a/libjsc.so"
+      ]
+    }
+  }
+}

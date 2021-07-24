@@ -1,0 +1,46 @@
+{
+  "stringTable": {
+    "0": "/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/friday/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/friday/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dafc_EXPORTS -I/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/jsc/JavaScriptCore -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/jsc/CMakeLists.txt",
+    "/Users/friday/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/friday/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/friday/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/friday/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "afc-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/friday/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a\" afc",
+      "buildType": "debug",
+      "toolchain": "3323815282",
+      "abi": "armeabi-v7a",
+      "artifactName": "afc",
+      "files": [
+        {
+          "src": "/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/jsc/bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/friday/Desktop/learn/flutter/flutter_jscore/example/build/flutter_jscore/intermediates/cmake/debug/obj/armeabi-v7a/libafc.so",
+      "runtimeFiles": [
+        "/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/lib/android/armeabi-v7a/libc++_shared.so",
+        "/Users/friday/Desktop/learn/flutter/flutter_jscore/jscore/lib/android/armeabi-v7a/libjsc.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "3323815282": {
+      "cppCompilerExecutable": "/Users/friday/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

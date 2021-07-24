@@ -1,0 +1,3 @@
+/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/afc.dir

@@ -1,0 +1,7 @@
+Executable : /Users/friday/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/friday/Desktop/learn/flutter/flutter_jscore/android/.cxx/cmake/debug/armeabi-v7a
+afc
+jvmArgs : 
+
